@@ -1,6 +1,6 @@
 # `Blockx210`
 
-Curso de blockchain y smart contracts con Solidity y Vyper. Usando Cyfrin Updraft como referencia. Enfocado a capas 2 de Ethereum como Polygon o Base.
+Curso de blockchain y smart contracts con Solidity y Vyper. Usando **[Cyfrin Updraft](https://updraft.cyfrin.io) como referencia y guía de estudio**. Enfocado a capas 2 de Ethereum como Polygon o Base.
 
 ## Cursos
 
@@ -10,7 +10,9 @@ Los cursos de [Cyfrin Updraft](https://updraft.cyfrin.io) que usaremos como guí
 
 Es recomendable entender los conceptos de "Blockchain Basics" para el correcto aprovechamiento de los cursos de Solidity y Vyper. Este es el contenido que se dictará semanalmente en las lectures para tener fundamentos teóricos sólidos al momento de desarrollar los proyectos. Se le dará prioridad a programar desde el primer día (ver cursos de Solidity o Vyper en orden) mientras que progresivamente dominaremos los fundamentos semana a semana.
 
-Otra recomendación es saber usar Git y GitHub para llevar el control de versiones en los proyectos, especialmente cuando se usen frameworks como Foundry o Moccasin.
+Otra recomendación es saber usar **Git y GitHub** para llevar el control de versiones en los proyectos, especialmente cuando se usen frameworks como Foundry o Moccasin.
+
+La **línea de comandos**, especialmente con **Linux**, es también necesaria para desarrollar software.
 
 [Blockchain Basics](https://updraft.cyfrin.io/courses/blockchain-basics) **[ 3hrs + 23 lessons + 1 project ]**
 
@@ -51,6 +53,8 @@ Talleres ("office hours") de **lunes a viernes** en Discord. Se trabajará los p
 Clases magistrales ("lectures") los **sábados** en Discord. Se explicará temas fundamentales de blockchain aplicados a smart contracts y los proyectos a desarrollar.
 
 Se hará seguimiento semanalmente tanto al avance en los cursos (indiviualmente) como al desarrollo de los proyectos (grupalmente).
+
+**¡No duden preguntar lo que sea en Discord o WhatsApp!**
 
 ## Referencia
 
